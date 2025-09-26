@@ -66,7 +66,7 @@ The dashboard provides:
 
 ## 👀 Project Overview
 - 🔗 [Video Post](https://www.linkedin.com/posts/srijan-singh-s12_powerbi-dataanalytics-salesanalysis-activity-7377415899089293312-Ymx6?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE7nXvEBVtiVHIq15jdrTG1sX19E0jC9k9w)
-- - 🔗 [Work Post](https://www.linkedin.com/posts/srijan-singh-s12_sales-overview-analysis-activity-7377406484973862933-rfB4?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE7nXvEBVtiVHIq15jdrTG1sX19E0jC9k9w)
+- 🔗 [Work Post](https://www.linkedin.com/posts/srijan-singh-s12_sales-overview-analysis-activity-7377406484973862933-rfB4?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE7nXvEBVtiVHIq15jdrTG1sX19E0jC9k9w)
 
 ---
 
